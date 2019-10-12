@@ -1,17 +1,2 @@
-My leanring python daily record.
+- 2019/10/12 提交自动下载Bing壁纸脚本
 
-second recond.
-
-i love python.
-
-
-hello,world!
-
-
-hello
-]
-
-
-
-
-2019/6/24
