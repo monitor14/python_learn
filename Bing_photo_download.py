@@ -43,7 +43,7 @@ t1 = bsObj.find_all('link')
 t2=str(t1[0])
 html_link=sourceLink+t2[23:84]
 
-file_path="/Users/zixincai/github/python_learn/Bing_photo/"
+
 Photo_name=t2[34:48]
 Full_name=file_path+Photo_name+".jpg"
 img_data=urllib.request.urlopen(html_link).read()
